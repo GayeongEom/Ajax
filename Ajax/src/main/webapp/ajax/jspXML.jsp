@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<list>
+	<count>3</count>
+	<items>
+		<item>
+			<user>
+				<userno></userno>
+				<name></name>
+				<email></email>
+			</user>
+		</item>
+		<item>
+			<user>
+				<userno></userno>
+				<name></name>
+				<email></email>
+			</user>
+		</item>
+		<item>
+			<user>
+				<userno></userno>
+				<name></name>
+				<email></email>
+			</user>
+		</item>
+	</items>
+</list>
