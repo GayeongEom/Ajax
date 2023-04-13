@@ -45,7 +45,7 @@ function ajaxFromServer() {
 </head>
 <body>
 
-<h1>AJAX 03</h1>
+<h1>AJAX 04</h1>
 <hr>
 
 <form name="f">
